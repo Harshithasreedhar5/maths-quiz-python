@@ -28,7 +28,7 @@ strengthened my problem-solving skills, and explored the Tkinter module for crea
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Harshithasreedhar05/Math-Quiz-Python.git
+git clone https://github.com/Harshithasreedhar5/maths-quiz-python.git
 ```
 
 2. Navigate to the project folder:
@@ -40,7 +40,7 @@ cd Math-Quiz-Python
 3. Run the Python file:
 
 ```bash
-python mathquiz.py
+python math_quiz.py
 ```
 
 ## Concepts Practiced
